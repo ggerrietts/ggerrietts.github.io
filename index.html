@@ -1,1 +1,14 @@
-Hello, world!
+---
+layout: default
+---
+<div class="row">
+    <div class="col-sm-8">
+        {% assign fp = site.posts.first %}
+        <h1>{{ fp.title }}</h1>
+        <p class="meta">{{ fp.date | date_to_string }}</p>
+        <div class="post">
+            {{ fp.content }}
+        </div>
+    </div>
+    {% include post_list.html %}
+</div>

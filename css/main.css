@@ -1,0 +1,27 @@
+
+ul.posts {
+    margin: 20px auto 40px;
+    font-size: 1.5em;
+}
+
+ul.posts li {
+    list-style: none;
+}
+
+.cv h2 {
+    font-size: 16pt;
+}
+
+.cv p.firm,.cv p.talk {
+    padding-top: 5px;
+}
+
+.cv span.firm {
+    font-weight: bold;
+    font-size: 12pt;
+}
+
+.cv span.location,.cv span.position,.cv span.date {
+    font-weight: normal;
+    font-size: 12pt;
+}

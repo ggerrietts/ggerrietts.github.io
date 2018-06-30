@@ -1,0 +1,22 @@
+<title>{{page.title}}</title>
+<link rel="stylesheet" href="/assets/bs/css/bootstrap.min.css">
+<link rel="stylesheet" href="/assets/cv.css">
+<script src="/assets/jq/jquery-3.3.1.slim.min.js"></script>
+<script src="/assets/bs/js/bootstrap.min.js"></script>
+<script type="application/javascript">
+    $(document).ready(function() {
+        $('li.active').removeClass('active');
+        $('a.list-group-item-secondary').removeClass('list-group-item-secondary');
+        let nv = $('a.nav-link[href="' + location.pathname + '"]');
+        if (nv) {
+            nv.closest('li').addClass('active');
+        }
+        let pl = $('a.post-link[href="' + location.pathname + '"]');
+        if (pl) {
+            pl.addClass('list-group-item-secondary');
+            $('li.blog-link').addClass('active');
+        }
+        pn.addClass('active')
+    });
+</script>
+{% include analytics.html %}

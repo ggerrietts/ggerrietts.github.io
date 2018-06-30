@@ -1,9 +1,14 @@
 <div class="col-sm-4">
-    <ul class="posts">
+    <h5>Blog Post List</h5>
+    <ul class="list-group">
         {% for post in site.posts %}
-        <li><span>{{ post.date | date_to_string }}</span><br/>
-            <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-        </li>
+        <a class="list-group-item list-group-item-action d-flex justify-content-between align-items-center post-link"
+           href="{{ post.url }}" title="{{ post.title}}">
+            {{ post.title }}
+            <span class="badge badge-secondary badge-pill">
+                {{ post.date | date_to_string }}
+            </span>
+        </a>
         {% endfor %}
     </ul>
 </div>

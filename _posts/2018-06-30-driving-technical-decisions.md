@@ -7,7 +7,7 @@ Most software projects don't need much technical leadership. Most dev teams don'
 
 This is unfortunate, because driving technical projects isn't that hard. It's just not something most teams are trained to do. Most projects can be conceived and delivered in three phases: brainstorming, proposal, and spec.
 
-## Brainstorming
+### Brainstorming
 
 Brainstorming is actually the most overhyped of the phases. Certain personalities really thrive on unstructured meetings, and brainstorming provides an excuse. Resist the temptation. If it helps, rename this phase "requirements gathering."
 
@@ -18,7 +18,7 @@ During this phase, aim to elicit and capture two things: possible innovations an
 - Reach out directly to key stakeholders
 - Minimize this phase as much as possible; skip it if you can
 
-## Proposal
+### Proposal
 
 After brainstorming comes the proposal stage. This is where I start most of my projects. A proposal is like a
 specification, but it's like a first draft of the specification.
@@ -39,7 +39,7 @@ Maybe have a meeting where you present the proposal. Only do this if your organi
 read and respond without one. Meetings present special hazards that are best avoided: bikeshedding, yak shaving, descent
 into debate, etc.
 
-## Spec
+### Spec
 
 Once you've written and delivered a proposal, you're ready to turn it into a spec. Spec is like proposal but aims to be
 final. Again, resist doing lots of review cycles. Iterating on the plan without feedback from implementation will rarely

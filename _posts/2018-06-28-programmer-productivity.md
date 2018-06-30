@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Programmer Productivity through Mastery & Flow
+title: Programmer Productivity Through Mastery & Flow
 date: 2018-06-28
 ---
 So this morning I want to talk about programmer productivity. To discuss it, I will lean on two ideas: mastery and flow.
 Both come from psychology and I’m qualified to talk about neither. But since I’m a white guy in his 40’s I won’t let
 that stop me.
 
-Flow is an idea introduced by Mihaly Csikszentmihalyi in his book, Flow. You should read it.
+Flow is an idea introduced by Mihaly Csikszentmihalyi in his book, _Flow_. You should read it.
 
 Most programmers are familiar with flow as I think of it. It’s that heady space where the context is all loaded in your
 head and your purpose is clear and the code is unfolding in front of you. You’re finally getting something done! Cue the
@@ -24,7 +24,7 @@ This last thing is tricky. Flow can be rewarding, but it also costs emotional en
 get started. Flow is like the awesome party that you really want to go to, but it’s across town and you're already
 watching TV in your underwear.
 
-This is where mastery comes in. I have run across this idea in a few places, but @avantgame’s Reality is Broken
+This is where mastery comes in. I have run across this idea in a few places, but Jane McGonigal's _Reality is Broken_
 expressed how I think about it. This is also an excellent book. You should read it.
 
 Mastery is the feeling you get from accomplishing something. The something needs to be substantive but not necessarily

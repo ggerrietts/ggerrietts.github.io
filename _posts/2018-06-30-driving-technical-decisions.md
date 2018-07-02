@@ -2,6 +2,7 @@
 layout: post
 title: Driving Technical Decisions
 date: 2018-06-30
+comments: true
 ---
 Most software projects don't need much technical leadership. Most dev teams don't have processes or the skills to drive them. This often results in technical debt, poor tooling, and bad interface designs.
 

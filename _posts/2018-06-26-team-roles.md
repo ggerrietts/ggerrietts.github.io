@@ -2,6 +2,7 @@
 layout: post
 title: Know Your Role
 date: 2018-06-26
+comments: true
 ---
 Key software people skill: know your role in team conversations. Are you the task leader this time? Are you the
 evaluating audience? Tension reliever? Central negative? Knowing how your role functions can help you focus on

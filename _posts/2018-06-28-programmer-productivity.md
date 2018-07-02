@@ -2,6 +2,7 @@
 layout: post
 title: Programmer Productivity Through Mastery & Flow
 date: 2018-06-28
+comments: true
 ---
 So this morning I want to talk about programmer productivity. To discuss it, I will lean on two ideas: mastery and flow.
 Both come from psychology and I’m qualified to talk about neither. But since I’m a white guy in his 40’s I won’t let

@@ -7,10 +7,10 @@ comments: true
 
 ### Against Meetings
 
-Meetings seem like they should be easy because they are ubiquitous. This innocuous facade hides serious hazards. 
+Meetings _seem_ like they should be easy because they are ubiquitous. This appearance of innocence hides serious hazards. 
 
-Most meetings suffer badly from people who don't know how to run meetings. Not like, can't run meetings according to
-Robert's Rules of Order. Just basically running a meeting that doesn't suck.
+Most meetings suffer badly from being run by people who don't know how to run meetings. Not like, can't run meetings
+according to Robert's Rules of Order. Just basically running a meeting that doesn't suck.
 
 Even when run well, meetings have a lot of potential traps.
 
@@ -50,7 +50,7 @@ dreads will still be productive.
 Conversely, meetings without an agenda only do not typically yield much value.
 
 An agenda is like a contract for the meeting. It says what will be discussed and in what detail. It’s both vision and
-ground rules.  Sometimes an actual agenda seems too rigid or too formal. A list of questions to answer or a sort of
+ground rules.   Sometimes an actual agenda seems too rigid or too formal. A list of questions to answer or a sort of
 statement of purpose will supply the same kind of shape to a meeting, if a little less stridently.
 
 Of course, having an agenda or a list of items to discuss or purpose statement — these are a good foundation, and maybe

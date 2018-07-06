@@ -8,11 +8,11 @@
         $('li.active').removeClass('active');
         $('a.list-group-item-secondary').removeClass('list-group-item-secondary');
         let nv = $('a.nav-link[href="' + location.pathname + '"]');
-        if (nv) {
+        if (nv.length) {
             nv.closest('li').addClass('active');
         }
         let pl = $('a.post-link[href="' + location.pathname + '"]');
-        if (pl) {
+        if (pl.length) {
             pl.addClass('list-group-item-secondary');
             $('li.blog-link').addClass('active');
         }

@@ -1,3 +1,9 @@
+---
+layout: post
+title: Developing a Culture of Code Review
+date: 2018-07-06
+comments: true
+---
 This morning I'd like to talk about code review. Much of what I will say echoes the content of a
 [talk](https://ggerrietts.github.io/talks) I gave a couple years back, with a slightly different take.
 
